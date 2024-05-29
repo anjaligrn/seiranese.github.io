@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(108, 156, 89);
+}
+
+#allContent {
+    margin: 20px;
+    display: none;
+}
+
+.chart {
+    background-color: #93bf85;
+}
+
+.ratioChart {
+    padding: 20px;
+}
+
+#bigTitle {
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.exit {
+    width: 100px;
+    font-size: 20px;
+    margin: 40px;
+    background-color: white;
+    color: black;
+    border: 2px solid #04AA6D;
+}
+
+.xpUser {
+    font-weight: bold;
+}
+
+.level {
+    font-weight: bold;
+}
+
+#graphs {
+    margin: 30px;
+}
